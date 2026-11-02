@@ -316,3 +316,13 @@ height: 500px;
     flex-direction: column;
     gap:15px;
 }
+.c90{
+    padding: 20px 40px;
+    max-width: 1200px;
+    margin-top: 50px;
+    margin-left: 700px;
+    background-color: #24AB70;
+    color: #FAFAFA;
+    border: none;
+    border-radius: 10px;
+}
